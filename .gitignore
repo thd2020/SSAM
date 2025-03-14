@@ -1,0 +1,33 @@
+## logs
+/checkpoint
+/logs
+/runs
+/ctorg
+/gt_masks
+/predict
+/predict_no_prompt
+
+## cache
+pipline.sh
+.vscode
+.pyc
+
+## data
+**/*.pyc
+**/__pycache__
+**/*.log
+**/*.out
+**/*.bin
+**/*.pid
+**/*.pid.lock
+
+## resources
+**/*.jpg
+**/*.png
+**/*.jpeg
+**/*.gif
+**/*.pth
+
+## env
+**/*.csv
+**/*.env
